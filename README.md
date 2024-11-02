@@ -14,7 +14,8 @@ Bem-vindo ao **Jogo de cartas Yu-Gi-Oh**, um projeto de interface web inspirado 
 
 ### Demonstração
 
-![Exemplo do Mentor Match](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPauiqiINEPOIV4bXXHRjLXAAmb9uqOWRhhlXr_D7TfIlnpS2r3_3-YGZeDQOWtXE-Ye0Tj4If8_5gFpVIacCrKTMjn5NRmWE-6R6n7Z1OShISiKlYOt5orGrUencuyg78h4bxIfTTuGIOds5ZYtFqmOdD4A2o_2zQhfcJpSgf9bzUJOLbaE2lJ0D-og2/s16000/game-yo-gi-oh.gif)
+![imagens demonstração do projeto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPauiqiINEPOIV4bXXHRjLXAAmb9uqOWRhhlXr_D7TfIlnpS2r3_3-YGZeDQOWtXE-Ye0Tj4If8_5gFpVIacCrKTMjn5NRmWE-6R6n7Z1OShISiKlYOt5orGrUencuyg78h4bxIfTTuGIOds5ZYtFqmOdD4A2o_2zQhfcJpSgf9bzUJOLbaE2lJ0D-og2/s16000/game-yo-gi-oh.gif)
+
 
 ### 📌 Recursos do Projeto
 
