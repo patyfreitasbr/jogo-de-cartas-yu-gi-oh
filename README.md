@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Jogo de cartas Yu-Gi-Oh**, um projeto de interface web inspirado no universo de *Yu-Gi-Oh!*, desenvolvido com HTML, CSS e JavaScript. Este projeto simula uma batalha de cartas com uma interface visual cativante, animações e sons para melhorar a experiência do usuário.
 
-[Demonstração](#demonstração)
+[ Demosntração](#demonstracao)
 • [Recursos do Projeto](#recursos-do-projeto)
 • [Tecnologias Utilizadas](#tecnologias-utilizadas)
 • [Funcionalidades](#funcionalidades)
@@ -12,9 +12,14 @@ Bem-vindo ao **Jogo de cartas Yu-Gi-Oh**, um projeto de interface web inspirado 
 • [Licença](#licença) 
 • [Contato](#contato)
 
-### Demonstração
+## Demosntração
+ Acesse o site **[LINK]( Demosntração)**
 
-![imagens demonstração do projeto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPauiqiINEPOIV4bXXHRjLXAAmb9uqOWRhhlXr_D7TfIlnpS2r3_3-YGZeDQOWtXE-Ye0Tj4If8_5gFpVIacCrKTMjn5NRmWE-6R6n7Z1OShISiKlYOt5orGrUencuyg78h4bxIfTTuGIOds5ZYtFqmOdD4A2o_2zQhfcJpSgf9bzUJOLbaE2lJ0D-og2/s16000/game-yo-gi-oh.gif)
+### <a hfre="https://patyfreitasbr.github.io/landing-page-mundo-invertido/" target="_blank">Clique e acesse</a>
+
+![imagens demonstração do projeto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisWkqRoUR2ylpCFWYaiaFEH_r3gWB54sLuXlQ3UvEwlvjY1PJimvCjQDR5OaMpGAXVphBk_M4Hl7yVQkeOJowrcbQonRC6_5wbFf4cVN_uuEg2zFX-EMkmfn6bzbTmpS1EV1jmzzPOr8FDiCzHTQL3imCPJQul0XS7wyiuP3TViBFefsux7TPLZ0sen1NA/w640-h360/game.png)
+
+![gf](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxzcbQFTEolFjAIyt5EjxbWr1KO1wp329ny6YREr_ZzMhmm-SbANT4EDxG3vFCZhbQ6eYAgZgzWW3H0E5GM8tVpAvD4lDTP5qcaeLfv8zmtPcGbNNpBpnsJuIQ6huTfQLhfEkFrqyiNDn5T2neawylzZZrAOzzfKJxb_03vDskaNl0irg7z0dPyqvgBAfV/s16000/game1.gif)
 
 
 ### 📌 Recursos do Projeto
@@ -42,7 +47,7 @@ O projeto foi desenvolvido utilizando:
 
 ### 🚀 Como Executar o Projeto
 
- Acesse o site **[LINK]()**
+ Acesse o site **[LINK]( Demosntração)**
 
 ou
 
