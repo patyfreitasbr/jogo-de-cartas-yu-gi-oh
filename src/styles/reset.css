@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box; /*medir de borda a borda*/
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Press Start 2P", cursive;
+    user-select: none; /*para o user nao seleciona nada na tela*/
+  }
+  
